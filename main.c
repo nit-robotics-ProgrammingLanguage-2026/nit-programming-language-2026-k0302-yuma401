@@ -2,7 +2,7 @@
 
 int main(void) {
     double d;
-    scanf("%1f", &d);
+    scanf("%lf", &d);
     printf("%f", d); 
     return 0;
 }
